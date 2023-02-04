@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 IPL famous team:
 Mumbai Indians
 Chennai Super Kings
 Kolkata Knight Riders
+=======
+<<<<<<< HEAD
+Hi
+This is for demo.
+=======
+This is my sample file.
+>>>>>>> ahtesham
+>>>>>>> origin/main
