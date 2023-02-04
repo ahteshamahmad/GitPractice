@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi
 This is for demo.
+=======
+This is my sample file.
+>>>>>>> ahtesham
